@@ -1,7 +1,3 @@
-"""
-Python Recursion Video Course
-Robin Andrews - https://compucademy.net/
-"""
 import turtle
 
 SPEED = 5
